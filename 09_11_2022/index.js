@@ -1,0 +1,3 @@
+print(typeof(NaN));
+
+
